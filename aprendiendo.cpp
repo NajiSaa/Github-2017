@@ -3,6 +3,6 @@
 
 main()
 {
-    cout << "Hello World!";
+    cout << "Hello!";
     return 0;
 }
